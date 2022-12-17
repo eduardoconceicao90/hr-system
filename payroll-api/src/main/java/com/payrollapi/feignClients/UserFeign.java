@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import com.payrollapi.domain.User;
 
-@FeignClient(name = "user-api", url = "http://localhost:8000")
+@FeignClient(name = "user-api")
 public interface UserFeign {
 	
 	@GetMapping(value = "users/{id}")
