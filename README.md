@@ -6,8 +6,8 @@ Conteúdos abordados:
 - Spring Cloud
 - Docker
 - Docker compose
-- Criar suas imagens Docker
-- Registrar suas imagens em um docker registry
+- Criar imagens Docker
+- Registrar imagens em um docker registry
 - Versionamento de código com Git e Github
 - OpenFeign
 - Eureka Server
